@@ -1,5 +1,8 @@
-XQuery API for Java
+XQuery API for Java (JSR 225)
 
 A convenient location for source, jars and Maven poms.
 
 The jars and sources provided here have not been changed from their original forms.
+
+JSR URL: http://jcp.org/en/jsr/detail?id=225
+
